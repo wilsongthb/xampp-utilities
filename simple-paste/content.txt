@@ -1,0 +1,22 @@
+
+Control de instrumental
+
+Requerimiento:
+El instrumental requiere un sistema que permita tener control de donde y con quien esta el instrumental para conocer en todo momento su disponibilidad
+
+Doctor:
+- nombre
+- especialidad
+
+Historial de instrumental
+- producto
+- doctor
+- tipo de movimiento
+- ubicacion
+- cantidad
+- paciente involucrado
+- fecha de tratamiento
+
+Tratamiento
+- tipo denominacion
+Despacito
